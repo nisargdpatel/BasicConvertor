@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Convertor</string>
+    <string name="menu_temperature_id">Temperature</string>
+    <string name="menu_distance_id">Distance</string>
+    <string name="menu_temperature_title">Convert Temperature</string>
+    <string name="menu_distance_title">Convert Distance</string>
+</resources>
